@@ -9,8 +9,8 @@
 ## **Usage**
 ### This program utilizes sql and hvplot to organize, clean and create visualizatons for a database. Additionally, it uses the viola library to launch a web application for user interfacing. 
 
-![Voila web launcher](C:/Users/Owner/Pictures/voila1.png)
-![Voila web launcher](C:/Users/Owner/Pictures/voila1.png)
+![Voila web launcher screenshot 1](Images/voila1.png)
+![Voila web launcher screenshot 2](Images/voila1.png)
 
 ---
 ## **Contributors**
